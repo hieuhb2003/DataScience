@@ -1,0 +1,12 @@
+langchain-groq==0.2.1
+langchain==0.3.12
+langchain-openai==0.2.12
+gradio==5.9.1
+langchain_community==0.3.12
+faiss-cpu==1.9.0
+pandas
+SQLAlchemy
+sentence-transformers
+wget
+python-dotenv
+langchain_huggingface
